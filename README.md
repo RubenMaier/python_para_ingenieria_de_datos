@@ -1,7 +1,6 @@
 # Resumen por unidad
 
 
----
 ## 1.1 Profundizando en un tipos de datos
 
 ### tipos de datos:
