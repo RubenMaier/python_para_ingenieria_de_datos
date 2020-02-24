@@ -1,10 +1,8 @@
 # Resumen por unidad
 
 
-
 ---
 ## 1.1 Profundizando en un tipos de datos
----
 
 ### tipos de datos:
 
@@ -85,7 +83,6 @@ Namespaces are one honking great idea – let’s do more of those!
 
 ---
 ## 1.2 ¿Qué es la ciencia e ingeniería de datos?
----
 Persona que sabe: matemáticas, ingeniería de software y conocimiento de negocios
 
 Chamuyo teorico que te meten siempre. Mas o menos lo relevante:
@@ -96,7 +93,6 @@ Chamuyo teorico que te meten siempre. Mas o menos lo relevante:
 
 ---
 ## 1.3 Archivos del cruso y Slides
----
 
 Sliders en pdf
 > https://drive.google.com/file/d/1tHsfe0Zf8xc_Mxv6H5ihpcWE2VgSDEuq/view?usp=sharing
